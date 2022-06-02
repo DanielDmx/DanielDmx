@@ -1,4 +1,6 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There 
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="25px">
 
 ### Welcome, I'm Daniel Clemente 👋 
 
@@ -13,6 +15,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/CSS.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/SQL.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/MYSQL.png"></code>
+
+
+<img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" width="25px">
+
 
 <!--
 **DanielDmx/DanielDmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
