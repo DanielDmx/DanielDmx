@@ -2,7 +2,7 @@
 
 
 **Languages and tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/C%20sharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/C%20sharp.png"></code>
 
 <!--
 **DanielDmx/DanielDmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
