@@ -1,7 +1,12 @@
-### Welcome, I'm Daniel Clemente 👋
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Welcome, I'm Daniel Clemente 👋 
+
+**I'm Systems Engineer**.
 
 
 **Languages and tools:**
+
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/C%20sharp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/PHPH.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/HTML.png"></code>
