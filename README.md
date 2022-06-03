@@ -21,7 +21,9 @@
 
 **Contact me**
 
-<code><img href="Google.com" height="40" src=""></code>
+<a href="https://www.linkedin.com/in/daniel-clemente-a-a007911b0/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/LINKEDIN.png" />
+</a>
 
 <!--
 **DanielDmx/DanielDmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
