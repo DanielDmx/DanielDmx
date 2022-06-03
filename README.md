@@ -25,6 +25,10 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/LINKEDIN.png" />
 </a>
 
+<a href="">
+  <img align="left" width="22px" src="https://Instagram.com" />
+</a>
+
 <!--
 **DanielDmx/DanielDmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
