@@ -26,7 +26,7 @@
 </a>
 
 <a href="">
-  <img align="left" width="22px" src="https://Instagram.com" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/EMAIL.png" />
 </a>
 
 <!--
