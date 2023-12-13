@@ -4,7 +4,7 @@
 
 ### Welcome, I'm Daniel Clemente 👋 
 
-**I'm Systems Engineer**.
+**Systems Engineer**.
 
 
 **Languages and tools:**
