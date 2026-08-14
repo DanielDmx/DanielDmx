@@ -15,6 +15,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/CSS.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/SQL.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/MYSQL.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/NET.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/DanielDmx/DanielDmx/main/assets/DX.png"></code>
+
 
 
 <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" width="25px">
